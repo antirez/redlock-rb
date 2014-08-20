@@ -1,3 +1,4 @@
+require 'redlock/version'
 require 'redis'
 
 class Redlock
