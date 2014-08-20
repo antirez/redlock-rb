@@ -20,5 +20,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "bundler", "~> 1.6"
   spec.add_development_dependency "rake"
 
-  spec.add_dependency 'redis'
+  # redis-rb 3.0.0 is when scripting support dropped
+  spec.add_dependency 'redis', '~> 3.0'
 end
