@@ -1,3 +1,7 @@
+> Note:
+>
+> This project is no longer maintained. You might want to take a look at the fork [leandromoreira/redlock-rb](https://github.com/leandromoreira/redlock-rb).
+
 Redlock-rb - Redis distributed locks in Ruby
 
 This Ruby lib implements the Redis-based distributed lock manager algorithm [described in this blog post](http://antirez.com/news/77).
