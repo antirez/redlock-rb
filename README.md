@@ -37,3 +37,4 @@ and delay range:
     dlm.set_retry(3,200)
 
 **Disclaimer**: This code implements an algorithm which is currently a proposal, it was not formally analyzed. Make sure to understand how it works before using it in your production environments.
+desmonstração
